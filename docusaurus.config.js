@@ -21,7 +21,7 @@ const config = {
   organizationName: 'rjwignar', // Usually your GitHub org/user name.
   projectName: 'docusaurus-test.github.io', // Usually your repo name.
   deploymentBranch: 'deployment',
-
+  trailingSlash: false,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
